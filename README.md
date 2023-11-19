@@ -35,7 +35,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  🛠️ &emsp; Equipment maintenance teacher for <a target="_blank" href="http://cfa-mfeo.fr">CFA MFEO</a><br/><br/>
- 💻 &emsp; Admin for <a target="_blank" href="http://mineaurion.com">Mineaurion</a><br/><br/>
+ 💻 &emsp; Ex-Admin for 7 years for <a target="_blank" href="http://mineaurion.com">Mineaurion</a><br/><br/>
  📧 &emsp; Reach me anytime: contact@gaetan-paviot.fr<br/><br/>
  My Favorite OS
 
