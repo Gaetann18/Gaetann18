@@ -10,7 +10,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Equipment maintenance teacher and admin sys for <b><a target="_blank" href="http://cfa-mfeo.fr">CFA MFEO</a></b></b> 」
+    「 I am a Strategy Deputy CEO and Equipment maintenance teacher and admin sys for <b><a target="_blank" href="http://cfa-mfeo.fr">CFA MFEO</a></b></b> 」
     <br>
     <br>
   </samp>
@@ -34,7 +34,7 @@
  <img align="right" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- 🛠️ &emsp; Equipment maintenance teacher for <a target="_blank" href="http://cfa-mfeo.fr">CFA MFEO</a><br/><br/>
+ 🛠️ &emsp; Strategy Deputy CEO for <a target="_blank" href="http://cfa-mfeo.fr">CFA MFEO</a><br/><br/>
  💻 &emsp; Ex-Admin for 7 years for <a target="_blank" href="http://mineaurion.com">Mineaurion</a><br/><br/>
  📧 &emsp; Reach me anytime: contact@gaetan-paviot.fr<br/><br/>
  My Favorite OS
